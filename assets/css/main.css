@@ -1,0 +1,34 @@
+#__nuxt, #app, html, body {
+    height: 100%;
+    min-height: 100vh;
+  }
+  
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: #B9BFC6;
+  }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.main-content-scroll {
+  scrollbar-width: thin; 
+  scrollbar-color: #cbd5e1 #f1f5f9; 
+}
+.main-content-scroll::-webkit-scrollbar {
+  width: 8px;
+  background: transparent;
+}
+.main-content-scroll::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 8px;
+  visibility: hidden;
+}
+.main-content-scroll:hover::-webkit-scrollbar-thumb,
+.main-content-scroll:active::-webkit-scrollbar-thumb,
+.main-content-scroll:focus::-webkit-scrollbar-thumb {
+  visibility: visible;
+}

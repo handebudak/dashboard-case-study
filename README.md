@@ -18,13 +18,13 @@ This project is a one-page dashboard case study built with Nuxt 3 and Vue 3. It 
    ```bash
    npm install
    # or
-yarn install
+   yarn install
    ```
 3. Start the development server:
    ```bash
    npm run dev
    # or
-yarn dev
+   yarn dev
    ```
 
 ## Usage

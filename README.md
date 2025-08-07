@@ -34,7 +34,7 @@ This project is a one-page dashboard case study built with Nuxt 3 and Vue 3. It 
 ## Deployment
 This project is also deployed on Vercel for demonstration purposes. You can access the live demo via the following link:
 
-[Live Demo on Vercel](https://datahumble-case-ruddy.vercel.app/)
+[Live Demo on Vercel](https://dashboard-case-study.vercel.app/)
 
 ## Project Structure
 - `components/` — Vue components for layout and dashboard sections

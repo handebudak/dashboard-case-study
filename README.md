@@ -1,4 +1,4 @@
-# Datahumble Case - One Page Dashboard
+# Case Study - One Page Dashboard
 
 ## Description
 This project is a one-page dashboard case study built with Nuxt 3 and Vue 3. It is designed as a UI/UX showcase and will not be deployed to production. The dashboard features a responsive layout, sidebar navigation, header with user actions, and a right panel for additional information. Data is provided via a mock API for demonstration purposes.
